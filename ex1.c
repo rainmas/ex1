@@ -1,5 +1,5 @@
 /******************
-Name: a
+Name:
 ID:
 Assignment: Exercise 1
 *******************/
