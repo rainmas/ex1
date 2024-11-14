@@ -1,5 +1,5 @@
 /******************
-Name: Itamar Shmerling
+Name:
 ID:
 Assignment: Exercise 1
 *******************/
